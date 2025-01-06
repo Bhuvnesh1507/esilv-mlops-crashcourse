@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Masters/Machine%20Learning/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/575515193840970747/9675731c998e4a9e9afbd652ca113751/artifacts
+end_time: 1729525857928
+entry_point_name: ''
+experiment_id: '575515193840970747'
+lifecycle_stage: active
+run_id: 9675731c998e4a9e9afbd652ca113751
+run_name: auspicious-chimp-991
+run_uuid: 9675731c998e4a9e9afbd652ca113751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729525843468
+status: 3
+tags: []
+user_id: HP

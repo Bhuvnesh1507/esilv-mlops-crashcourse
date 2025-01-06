@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Masters/Machine%20Learning/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/575515193840970747/ed9388c9659645c7828becfcb2d70ab5/artifacts
+end_time: 1729526403054
+entry_point_name: ''
+experiment_id: '575515193840970747'
+lifecycle_stage: active
+run_id: ed9388c9659645c7828becfcb2d70ab5
+run_name: sedate-stag-770
+run_uuid: ed9388c9659645c7828becfcb2d70ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729526389700
+status: 3
+tags: []
+user_id: HP

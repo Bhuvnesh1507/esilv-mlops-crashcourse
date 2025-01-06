@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Masters/Machine%20Learning/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/426847913613505920
+creation_time: 1729527437171
+experiment_id: '426847913613505920'
+last_update_time: 1729527437171
+lifecycle_stage: active
+name: taxi-duration-prediction

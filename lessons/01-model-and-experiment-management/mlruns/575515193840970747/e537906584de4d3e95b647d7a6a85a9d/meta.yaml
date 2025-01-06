@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Masters/Machine%20Learning/esilv-mlops-crashcourse/lessons/01-model-and-experiment-management/mlruns/575515193840970747/e537906584de4d3e95b647d7a6a85a9d/artifacts
+end_time: 1729098270447
+entry_point_name: ''
+experiment_id: '575515193840970747'
+lifecycle_stage: active
+run_id: e537906584de4d3e95b647d7a6a85a9d
+run_name: popular-calf-265
+run_uuid: e537906584de4d3e95b647d7a6a85a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729098270217
+status: 3
+tags: []
+user_id: HP
